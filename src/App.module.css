@@ -1,0 +1,14 @@
+
+.divMatriz{
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+  /* background-color: red; */
+}
+
+.eliminados{
+  background-color: red;
+}
+.noEliminados{
+  background-color: rgb(175, 218, 175);
+}
